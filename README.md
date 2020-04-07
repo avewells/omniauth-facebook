@@ -1,6 +1,6 @@
 # OmniAuth Facebook &nbsp;[![Build Status](https://secure.travis-ci.org/simi/omniauth-facebook.svg?branch=master)](https://travis-ci.org/simi/omniauth-facebook) [![Gem Version](https://img.shields.io/gem/v/omniauth-facebook.svg)](https://rubygems.org/gems/omniauth-facebook)
 
-📣 **NOTICE** We’re looking for maintainers to help keep this project up-to-date. If you are interested in helping please open an Issue expressing your interest. Thanks! 📣
+📣 **NOTICE** The difference between this and the original Facebook Strategy is that this allows you to pass a custom state similar to Google. 📣
 
 **These notes are based on master, please see tags for README pertaining to specific releases.**
 
